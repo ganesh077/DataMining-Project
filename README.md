@@ -1,4 +1,4 @@
-# DataMining-Project: Chess Evaluation Prediction from FEN
+# DataMining-Project: Chess Evaluation Prediction
 
 ## Description
 
